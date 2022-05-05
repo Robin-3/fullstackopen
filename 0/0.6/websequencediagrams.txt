@@ -1,0 +1,11 @@
+note over user:
+Insert content to input and click in save button
+end note
+
+browser->server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+note over server:
+save note, message in content and creation date
+end note
+note over browser:
+push note content to list of note
+end note
