@@ -17,3 +17,4 @@
    2. [JavaScript](https://fullstackopen.com/es/part1/java_script)
       - 1.3 Información del curso, paso 3
       - 1.4 Información del curso, paso 4
+      - 1.5 Información del curso, paso 5
