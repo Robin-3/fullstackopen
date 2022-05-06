@@ -5,6 +5,7 @@
   "main": "index.js",
   "workspaces": [
     "1.a",
+    "1.b",
     "1.c",
     "1.1",
     "1.2",
@@ -14,6 +15,7 @@
   ],
   "scripts": {
     "a": "npm run dev --workspace=1.a",
+    "b": "npm run dev --workspace=1.b",
     "c": "npm run dev --workspace=1.c",
     "1": "npm run dev --workspace=1.1",
     "2": "npm run dev --workspace=1.2",
