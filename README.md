@@ -23,7 +23,8 @@
       - 1.c Estado del componente, controladores de eventos
    4. [Un estado más complejo, depurando aplicaciones React](https://fullstackopen.com/es/part1/un_estado_mas_complejo_depurando_aplicaciones_react)
       - 1.d Un estado más complejo, depurando aplicaciones React
-      - 1.6 Unicafe, paso 1
-      - 1.7 Unicafe, paso 2
-      - 1.8 Unicafe, paso 3
-      - 1.9 Unicafe, paso 4
+      - 1.6  Unicafe, paso 1
+      - 1.7  Unicafe, paso 2
+      - 1.8  Unicafe, paso 3
+      - 1.9  Unicafe, paso 4
+      - 1.10 Unicafe, paso 5

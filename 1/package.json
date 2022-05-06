@@ -16,7 +16,8 @@
     "1.6",
     "1.7",
     "1.8",
-    "1.9"
+    "1.9",
+    "1.10"
   ],
   "scripts": {
     "a": "npm run dev --workspace=1.a",
@@ -31,7 +32,8 @@
     "6": "npm run dev --workspace=1.6",
     "7": "npm run dev --workspace=1.7",
     "8": "npm run dev --workspace=1.8",
-    "9": "npm run dev --workspace=1.9"
+    "9": "npm run dev --workspace=1.9",
+    "10": "npm run dev --workspace=1.10"
   },
   "keywords": [],
   "author": "",
