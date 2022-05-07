@@ -40,3 +40,5 @@
       -     Información del curso, paso 8
       - 2.4 Información del curso, paso 9
       -     Módulo separado
+   2. [Formularios](https://fullstackopen.com/es/part2/formularios)
+      - 2.b Formularios
