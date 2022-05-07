@@ -6,12 +6,14 @@
   "workspaces": [
     "2.a",
     "2.1",
-    "2.2"
+    "2.2",
+    "2.4"
   ],
   "scripts": {
     "a": "npm run dev --workspace=2.a",
     "1": "npm run dev --workspace=2.1",
-    "2": "npm run dev --workspace=2.2"
+    "2": "npm run dev --workspace=2.2",
+    "4": "npm run dev --workspace=2.4"
   },
   "keywords": [],
   "author": "",
