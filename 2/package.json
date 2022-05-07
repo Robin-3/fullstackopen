@@ -4,10 +4,12 @@
   "description": "",
   "main": "index.js",
   "workspaces": [
-    "2.a"
+    "2.a",
+    "2.1"
   ],
   "scripts": {
-    "a": "npm run dev --workspace=2.a"
+    "a": "npm run dev --workspace=2.a",
+    "1": "npm run dev --workspace=2.1"
   },
   "keywords": [],
   "author": "",
