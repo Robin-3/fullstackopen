@@ -44,3 +44,4 @@
       - 2.b Formularios
       - 2.6 La guía telefónica, paso 1
       - 2.7 La guía telefónica, paso 2
+      - 2.8 La guía telefónica, paso 3
