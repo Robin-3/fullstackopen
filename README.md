@@ -39,3 +39,4 @@
       - 2.2 Información del curso, paso 7
       -     Información del curso, paso 8
       - 2.4 Información del curso, paso 9
+      -     Módulo separado
