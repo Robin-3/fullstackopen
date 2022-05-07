@@ -42,7 +42,8 @@
       -     Módulo separado
    2. [Formularios](https://fullstackopen.com/es/part2/formularios)
       - 2.b Formularios
-      - 2.6 La guía telefónica, paso 1
-      - 2.7 La guía telefónica, paso 2
-      - 2.8 La guía telefónica, paso 3
+      - 2.6  La guía telefónica, paso 1
+      - 2.7  La guía telefónica, paso 2
+      - 2.8  La guía telefónica, paso 3
       - 2.9
+      - 2.10 La guía telefónica, paso 5
