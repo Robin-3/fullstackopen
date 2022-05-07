@@ -37,3 +37,4 @@
       - 2.a Renderizando una colección, módulos
       - 2.1 Información del curso, paso 6
       - 2.2 Información del curso, paso 7
+      -     Información del curso, paso 8
