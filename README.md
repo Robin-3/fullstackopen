@@ -36,3 +36,4 @@
    1. [Renderizando una colección, módulos](https://fullstackopen.com/es/part2/renderizando_una_coleccion_modulos)
       - 2.a Renderizando una colección, módulos
       - 2.1 Información del curso, paso 6
+      - 2.2 Información del curso, paso 7
