@@ -47,3 +47,5 @@
       - 2.8  La guía telefónica, paso 3
       - 2.9
       - 2.10 La guía telefónica, paso 5
+   2. [Obteniendo datos del servidor](https://fullstackopen.com/es/part2/obteniendo_datos_del_servidor)
+      - 2.c,2.server Obteniendo datos del servidor
