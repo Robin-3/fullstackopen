@@ -14,7 +14,8 @@
     "2.7",
     "2.8",
     "2.9",
-    "2.10"
+    "2.10",
+    "2.11"
   ],
   "scripts": {
     "server": "npm run server --workspace=2.c",
@@ -28,7 +29,9 @@
     "7": "npm run dev --workspace=2.7",
     "8": "npm run dev --workspace=2.8",
     "9": "npm run dev --workspace=2.9",
-    "10": "npm run dev --workspace=2.10"
+    "10": "npm run dev --workspace=2.10",
+    "11": "npm run dev --workspace=2.11",
+    "11.server": "npm run server --workspace=2.11"
   },
   "keywords": [],
   "author": "",
